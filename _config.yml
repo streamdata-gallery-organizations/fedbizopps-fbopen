@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: fedbizopps-fbopen.api.streamdata.gallery
+title: Streamdata Gallery FedBizOpps (FBOpen)
+url: fedbizopps-fbopen.streamdata.gallery
 tag: FedBizOpps (FBOpen)
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: fedbizopps-fbopen
 github_branch: master
 collections:
